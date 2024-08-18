@@ -1,0 +1,81 @@
+{
+  "list": [
+  {
+     "id":"1",
+     "name":"Tlinh",
+     "age":24,
+     "avatar":[
+        "https://vcdn1-giaitri.vnecdn.net/2024/06/14/Tlinh-1-jpeg-9338-1718340500.jpg?w=460&h=0&q=100&dpr=2&fit=crop&s=Vu-qyWxFvoZWJjKyaCmogQ",
+        "https://static.wikia.nocookie.net/producerviet/images/c/cf/TLinh.webp/revision/latest?cb=20221123114844",
+        "https://i.vietgiaitri.com/2022/1/22/nu-rapper-tlinh-xuat-hien-khac-la-voi-tao-hinh-dau-troc-407-6282431.jpg",
+        "https://image.tienphong.vn/Uploaded/2024/athlraungenat/2024_06_27/428479597-846791500583836-6980369438067920977-n-7153.jpg"
+     ]
+  },
+  {
+     "id":"2",
+     "name":"Huỳnh Uyển Ân",
+     "age":25,
+     "avatar":[
+        "https://ss-images.saostar.vn/w800/2020/01/22/6865601/avaaa.jpg",
+        "https://cdn.tuoitre.vn/471584752817336320/data/teen360/pictures/2022/11/07/1667800202_uyen-an---nha-ba-nu--6-.jpg",
+        "https://media.viez.vn/prod/2022/11/2/large_image_e6241e5259.png",
+        "https://vcdn1-giaitri.vnecdn.net/2022/01/24/UynnemgiTrnThnh-1642994237-2620-1643006992.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VkytCJ7-Xi8VE0okpJCIwA"
+     ]
+  },
+  {
+     "id":"3",
+     "name":"Thùy Tiên",
+     "age":24,
+     "avatar":[
+        "https://images2.thanhnien.vn/zoom/686_429/528068263637045248/2024/3/26/thuy-tien-dai-su-di-lich5-171144056271595905311-639-0-1889-2000-crop-1711441801100307788829.jpg",
+        "https://media-cdn-v2.laodong.vn/storage/newsportal/2022/11/3/1112503/Thuy-Tien.jpg?w=800&h=496&crop=auto&scale=both",
+        "https://vcdn1-giaitri.vnecdn.net/2023/05/31/HoahauThuyTien2-1685520485-1794-1685521715.jpg?w=500&h=300&q=100&dpr=2&fit=crop&s=iGhXLBwgvhZKVp_xB2gjig"
+     ]
+  },
+  {
+     "id":"4",
+     "name":"Vũ Phương Anh",
+     "age":24,
+     "avatar":[
+        "https://vnn-imgs-f.vgcloud.vn/2021/07/20/19/dien-vien-jun-vu-keu-cuu-vi-bi-nham-la-hoa-khoi-vac-xin-1.jpeg?width=360&s=Ugab0LlADotIxdyELStqFA",
+        "https://nld.mediacdn.vn/zoom/594_371/291774122806476800/2021/7/21/hanh-trinh-tu-hot-girl-tra-sua-den-nu-dien-vien-xuat-sac-cua-jun-vu-5d2bf6c0-16267765232751718137907-1626828871161991811676-1626838128412203740780.jpg",
+        "https://i1-ngoisao.vnecdn.net/2021/07/21/178127780-4130001200395287-566-6925-5204-1626858434.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=iqaT7idFs6pxBtoHagDNWA",
+        "https://sohanews.sohacdn.com/zoom/480_300/2019/6/13/j5-15603836826431385504236-crop-1560383800285917484203.jpg"
+     ]
+  },
+  {
+     "id":"5",
+     "name":"Trương Tiểu My",
+     "age":24,
+     "avatar":[
+        "https://thanhnien.mediacdn.vn/uploaded/thanhlongn/2020_04_03/truongtieumy6_CIVN.jpg?width=500",
+        "https://showbizvietnam.vn/wp-content/uploads/2023/09/dj-mie-2.webp",
+        "https://cdnmedia.tinmoi.vn/upload/baongan/2023/03/22/dj-mie-8-1679471104-1449142.jpg",
+        "https://showbizvietnam.vn/wp-content/uploads/2023/09/dj-mie-3.webp",
+        "https://photo.znews.vn/w660/Uploaded/cqdhmdxwp/2020_08_29/a_zing27.jpg",
+        "https://xabuon.com/uploads1/news/16-02-23/xabuon-girl-xinh-haivl-xemvn-sex-16-02-20231676562415429.jpg"
+     ]
+  },
+  {
+     "id":"6",
+     "name":"Phương Anh Đào",
+     "age":24,
+     "avatar":[
+        "https://media.baoquangninh.vn/upload/image/202402/medium/2183585_12b685ebd94151c3afef6998c3aea32e.jpg",
+        "https://file3.qdnd.vn/data/images/0/2024/02/16/upload_2058/30.jpg?dpi=150&quality=100&w=870",
+        "https://2sao.vietnamnetjsc.vn/images/2023/11/24/06/20/phuong-anh-dao-1.jpg",
+        "https://kenh14cdn.com/203336854389633024/2023/9/12/photo-10-16944992101671395221914.jpg"
+     ]
+  },
+  {
+     "id":"7",
+     "name":"Kim Cương",
+     "age":24,
+     "avatar":[
+        "https://trixie.com.vn/media/images/article/49273150/liz-kim-cuong-la-ai-780x470.jpg",
+        "https://media.viez.vn/prod/2021/9/8/thumba_fd8f3542d3.jpg",
+        "https://phunuvietnam.mediacdn.vn/zoom/660_412/179072216278405120/2023/6/3/34505775713655082673542993541981866820300272n-16857672153972008902593-156-0-1010-1366-crop-16857810326371902075140.jpg"
+     ]
+  }
+]
+}
